@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Elin-Brighter-New-Hairstyles",
+	"category": "client",
+	"description": "Makes the new Elin hairstyles appear whiter, and brighter. Perfect for those who want light colored hairs",
+	"author": "Panty",
+	"options": {
+		"guiName": "Special: Elin Brighter New Hairstyles",
+		"niceName": "Elin Brighter New Hairstyles"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Elin%20Brighter%20New%20Hairstyles/"
+	]
+}

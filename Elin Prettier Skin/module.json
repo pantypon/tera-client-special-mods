@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Elin-Prettier-Skin",
+	"category": "client",
+	"description": "Smoothes the skin of Elins, removing that dirty rustic look on knees and elbows. Adds white painted fingernails",
+	"author": "Panty",
+	"options": {
+		"guiName": "Special: Elin Prettier Skin",
+		"niceName": "Elin Prettier Skin"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Elin%20Prettier%20Skin/"
+	]
+}
