@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Fairy-Stump-Mount",
+	"category": "client",
+	"description": "Erases the black beetle from the mount, allowing the player to float mid-air on a cute tree stump",
+	"author": "Panty",
+	"options": {
+		"guiName": "Special: Fairy Stump Mount",
+		"niceName": "Fairy Stump Mount"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Fairy%20Stump%20Mount/"
+	]
+}

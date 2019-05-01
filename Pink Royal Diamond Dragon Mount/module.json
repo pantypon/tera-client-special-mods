@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Pink-Royal-Diamond-Dragon-Mount",
+	"category": "client",
+	"description": "Makes the Royal Diamond dragon have pink armor and pink accents to its diamond scales",
+	"author": "Panty",
+	"options": {
+		"guiName": "Special: Pink Royal Diamond Dragon Mount",
+		"niceName": "Pink Royal Diamond Dragon Mount"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Pink%20Royal%20Diamond%20Dragon%20Mount/"
+	]
+}

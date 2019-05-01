@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Pink-Fishie-Set",
+	"category": "client",
+	"description": "Makes all the fishing poles and fishing floats into a pale pink",
+	"author": "Panty",
+	"options": {
+		"guiName": "Special: Pink Fishie Set",
+		"niceName": "Pink Fishie Set"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Pink%20Fishie%20Set/"
+	]
+}
